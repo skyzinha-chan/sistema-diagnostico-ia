@@ -49,7 +49,7 @@ flowchart TD
     style E fill:#00cc96,stroke:#fff,stroke-width:2px,color:#fff
     style F fill:#ffa15a,stroke:#fff,stroke-width:2px,color:#fff
     style G fill:#636efa,stroke:#fff,stroke-width:2px,color:#fff
-
+```
 ---
 
 ## 🚀 Como acessar
